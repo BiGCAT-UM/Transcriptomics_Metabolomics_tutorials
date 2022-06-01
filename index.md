@@ -1,4 +1,4 @@
-## Welcome to Transcriptomics metabaolomics analysis tutorials!
+## Welcome to Transcriptomics Metabolomics Analysis tutorials!
 
 | [Tutorials](pages/tutorials) | [Linksets](pages/linksets) | [How to cite](pages/citation) | [Contact](pages/contact)  |
 | :---: | :---: | :---: | :---: |
