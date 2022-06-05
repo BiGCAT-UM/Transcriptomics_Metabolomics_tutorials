@@ -16,21 +16,7 @@ To perform the workflow:<br>
     <td><b>Tutorial</b></td><td><b>Topic</b></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/1-data_preprocessing">1-Data preprocessing </a></td><td>Preprocess transcriptomics data to be ready for analysis</td>
-</tr>
-<tr>
-    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/2-differential_gene_expression_analysis">2-Differential gene expression analysis</a></td><td>Performing differential gene expression analysis</td>
-</tr>
-<tr>
-    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/3-pathway_analysis">3-Pathway Analysis</a></td><td>Perform pathway enrichment analysis to differential expressed genes</td>
-<tr>
-    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/4-create_heatmap">4-Heatmap creation</a></td><td>Heatmap visualization for enriched pathways </td>
-</tr>
-<tr>
-    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/5-extract-overlapped_genes">5-Overlapped genes extraction</a></td><td>Extracting overlapped differential expressed genes between Chron`s disease and ulcerative colitis </td>
-</tr>
-<tr>
-    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/6-network_analysis">6-Network analysis</a></td><td>Creating PPI-pathway network, applying MCL (Markov Clusetring) algorithm to the created networks</td>
+    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/1-data_preprocessing">1-Data preprocessing </a></td>
+    <td>Preprocess transcriptomics data to be ready for analysis</td>
 </tr>
 </table>
-
