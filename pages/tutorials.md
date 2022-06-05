@@ -33,7 +33,6 @@ To perform the workflow:<br>
 </tr>
 </table>
 
-***
 **Metabolomics Analysis**
 <table>
 <tr>
@@ -50,7 +49,6 @@ To perform the workflow:<br>
 </tr>
 </table>
 
-***
 **Multi-Omics visualization**
 <table>
 <tr>
