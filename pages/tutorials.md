@@ -9,6 +9,8 @@ To perform the workflow:<br>
 * Open .Rmd file in RStudio<br>
 * Run the script<br>
 
+***
+
 **Transcriptomics Analysis**
 <table>
 <tr>
@@ -33,6 +35,8 @@ To perform the workflow:<br>
 </tr>
 </table>
 
+***
+
 **Metabolomics Analysis**
 <table>
 <tr>
@@ -48,6 +52,8 @@ To perform the workflow:<br>
     <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/metabolomics_analysis/9-metabolite_pathway_analysis">9-Metabolite pathway Analysis</a></td><td>Performing pathway enrichment analysis to metabolite data</td>
 </tr>
 </table>
+
+***
 
 **Multi-Omics visualization**
 <table>
