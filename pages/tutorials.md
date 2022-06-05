@@ -53,3 +53,18 @@ To perform the workflow:<br>
 <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/metabolomics_analysis/9-metabolite_pathway_analysis">9-Metabolite pathway Analysis</a></td><td>Performing pathway enrichment analysis to metabolite data</td>
 </tr>
 </table>
+
+***
+
+**Multi-Omics visualization**
+<table>
+<tr>
+<td><b>Tutorial</b></td><td><b>Topic</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/visualization_multiomics/10-identifier_mapping">10-Identifier mapping </a></td><td>Identifier mapping to be ready for visualization</td>
+</tr>
+<tr>
+<td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/visualization_multiomics/11-visualization">11-Visualization</a></td><td>Enriched pathway visualization</td>
+</tr>
+</table>
