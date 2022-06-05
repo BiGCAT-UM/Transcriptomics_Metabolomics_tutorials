@@ -19,7 +19,7 @@ Add an [issue on GitHub](https://github.com/BiGCAT-UM/Transcriptomics_Metabolomi
 ## Team
 <table border="0">
 <tr>
-<td><img src="../images/duygu.jpg"/></td>
+<td><img src="../images/duygu.png"/></td>
 <td>
 <b><a href="https://www.linkedin.com/in/duygu-dede-%C5%9Fener-05368452/" target="_blank">Duygu Dede Sener</a></b>
 <br/>Main developer of the workflow
