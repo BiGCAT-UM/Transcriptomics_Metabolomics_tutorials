@@ -1,9 +1,10 @@
 
 # Preparation
+The audience for this workshop session are bioinformaticians or life scientists interested in learning to use semi-automated workflow includes differential gene expression analysis, statistical analysis of metabolomics data, as well as pathway enrichment analysis for both transcriptomics and metabolomics data followed by integration of this data through network analysis to identify disease-related processes and visualization of multi-omics data . Participants should have some prior experience with R data analysis.
 
-In this page, a step-by-step instruction is given about how to install and dowload required software tools for performing the workflow.
+Follow the instructions to download install all required software tools for the workflow.
 
-The workflow was created with the following versions:
+The workflow was created with the following versions of the software:
 * R 4.1.3
 * R-studio 2021.09.02
 * Cytoscape v3.9.1 
