@@ -32,3 +32,19 @@ To perform the workflow:<br>
     <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/6-network_analysis">6-Network analysis</a></td><td>Creating PPI-pathway network, applying MCL (Markov Clusetring) algorithm to the created networks</td>
 </tr>
 </table>
+
+**Metabolomics Analysis**
+<table>
+<tr>
+    <td><b>Tutorial</b></td><td><b>Topic</b></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/metabolomics_analysis/7-metabolite_data_preprocessing">7-Data preprocessing </a></td><td>Preprocess metabolomics data to be ready for analysis</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/metabolomics_analysis/8-significantly_changed_metabolites_analysis">8-Significantly changed metabolites analysis</a></td><td>Performing statistical analysis</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/metabolomics_analysis/9-metabolite_pathway_analysis">9-Metabolite pathway Analysis</a></td><td>Performing pathway enrichment analysis to metabolite data</td>
+</tr>
+</table>
