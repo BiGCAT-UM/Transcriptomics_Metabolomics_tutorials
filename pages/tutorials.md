@@ -10,7 +10,7 @@ To perform the workflow:<br>
 * Run the script<br>
 
 ***
-**API Tutorials CyTargetLinker v.4.0+ (Cytoscape 3.6.+)**
+**Transcriptomics Analysis**
 <table>
 <tr>
     <td><b>Tutorial</b></td><td><b>Topic</b></td>
@@ -34,20 +34,3 @@ To perform the workflow:<br>
 </tr>
 </table>
 
-***
-
-**GUI Tutorials CyTargetLinker v.4.0+ (Cytoscape 3.6.+)**
-<table>
-<tr>
-<td><b>Tutorial</b></td><td><b>Topic</b></td>
-</tr>
-<tr>
-<td><a href="tutorials/tutorial1">Tutorial 1</a></td><td>Extend a set of microRNAs with regulatory information</td>
-</tr>
-<tr>
-<td><a href="tutorials/tutorial2">Tutorial 2</a></td><td>Extend a biological pathway from WikiPathways with regulatory information</td>
-</tr>
-<tr>
-<td><a href="tutorials/tutorial3">Tutorial 3</a></td><td>Extend a STRING protein-protein interaction network with pathway associations</td>
-</tr>
-</table>
