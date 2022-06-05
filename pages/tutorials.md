@@ -13,11 +13,10 @@ To perform the workflow:<br>
 **Transcriptomics Analysis**
 <table>
 <tr>
-    <td><b>Tutorial</b></td><td><b>Topic</b></td>
+<td><b>Tutorial</b></td><td><b>Topic</b></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/1-data_preprocessing">1-Data preprocessing </a></td>
-    <td>Preprocess transcriptomics data to be ready for analysis</td>
+<td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/1-data_preprocessing">1-Data preprocessing </a></td><td>Preprocess transcriptomics data to be ready for analysis</td>
 </tr>
 <<tr>
 <td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase2">Automation Tutorial 2</a></td><td>R tutorial to extend differentially expressed genes with pathway associations</td>
