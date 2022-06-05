@@ -1,6 +1,4 @@
 
-
-### 
 <table width="100%" >
 <tr>
 <td><b>Title</b></td><td><b>Speaker</b></td><td><b>Link</b></td>
