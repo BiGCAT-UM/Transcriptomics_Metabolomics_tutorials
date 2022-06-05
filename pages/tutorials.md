@@ -17,7 +17,6 @@ Multi-omics visualization<br>
 10-Identifier mapping<br>
 11-Visualizaiton of multi-omics<br>
 
-***
 
 **Transcriptomics Analysis**
 <table>
@@ -44,3 +43,32 @@ Multi-omics visualization<br>
 </table>
 
 ***
+**Metabolomics Analysis**
+<table>
+<tr>
+<td><b>Tutorial</b></td><td><b>Topic</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/metabolomics_analysis/7-metabolite_data_preprocessing">Data preprocessing </a></td><td>Preprocess metabolomics data to be ready for analysis</td>
+</tr>
+<tr>
+<td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/metabolomics_analysis/8-significantly_changed_metabolites_analysis">Significantly changed metabolites analysis</a></td><td>Performing statistical analysis</td>
+</tr>
+<tr>
+<td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/metabolomics_analysis/9-metabolite_pathway_analysis">Metabolite pathway Analysis</a></td><td>Performing pathway enrichment analysis to metabolite data</td>
+</tr>
+</table>
+
+***
+**Multi-omics visualization**
+<table>
+<tr>
+<td><b>Tutorial</b></td><td><b>Topic</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/visualization_multiomics/10-identifier_mapping">Identifier mapping </a></td><td>Identifier mapping to be ready for visualization</td>
+</tr>
+<tr>
+<td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/visualization_multiomics/11-visualization">Visualization</a></td><td>Enriched pathway visualization</td>
+</tr>
+</table>
