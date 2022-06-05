@@ -2,20 +2,20 @@
 
 This workflow, developed in R markdown files as well as and Jupyter notebook files, includes differential gene expression analysis, statistical analysis of metabolomics data, as well as pathway enrichment analysis for both transcriptomics and metabolomics data followed by integration of this data through network analysis to identify disease-related processes and visualization of multi-omics data. A publicly available (https://ibdmdb.org/) gut-transcriptomic and stool-metabolome dataset of the gut microbial ecosystem in inflammatory bowel diseases was used to test the proposed workflow.
 
-Transcriptomics analysis:
+<b>Transcriptomics analysis:</b>
 1-Data preprocessing<br>
-2-Differential gene expression analysis
-3-Gene Pathway Analysis (ORA)
-4-Heatmap creation
-5-Overlapped genes extraction
-6-Network analysis
-Metabolomics analysis:
-7-Data preprocessing
-8-Significantly changed metabolites analysis
-9-Metabolite Pathway Analysis (ORA)
-Multi-omics visualization
-10-Identifier mapping
-11-Visualizaiton of multi-omics
+2-Differential gene expression analysis<br>
+3-Gene Pathway Analysis (ORA)<br>
+4-Heatmap creation<br>
+5-Overlapped genes extraction<br>
+6-Network analysis<br>
+<b>Metabolomics analysis:</b><br>
+7-Data preprocessing<br>
+8-Significantly changed metabolites analysis<br>
+9-Metabolite Pathway Analysis (ORA)<br>
+Multi-omics visualization<br>
+10-Identifier mapping<br>
+11-Visualizaiton of multi-omics<br>
 
 ***
 
