@@ -2,7 +2,7 @@
 
 This workflow, developed in R markdown files as well as and Jupyter notebook files, includes differential gene expression analysis, statistical analysis of metabolomics data, as well as pathway enrichment analysis for both transcriptomics and metabolomics data followed by integration of this data through network analysis to identify disease-related processes and visualization of multi-omics data. A publicly available (https://ibdmdb.org/) gut-transcriptomic and stool-metabolome dataset of the gut microbial ecosystem in inflammatory bowel diseases was used to test the proposed workflow.
 
-<b>Transcriptomics analysis:</b>
+<b>Transcriptomics analysis:</b><br>
 1-Data preprocessing<br>
 2-Differential gene expression analysis<br>
 3-Gene Pathway Analysis (ORA)<br>
@@ -44,19 +44,3 @@ Multi-omics visualization<br>
 </table>
 
 ***
-
-**API Tutorials CyTargetLinker v.4.0+ (Cytoscape 3.6.+)**
-<table>
-<tr>
-<td><b>Tutorial</b></td><td><b>Topic</b></td>
-</tr>
-<tr>
-<td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase1">Automation Tutorial 1</a></td><td>R tutorial to extend Rett syndrome PPI network with compounds and diseases</td>
-</tr>
-<tr>
-<td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase2">Automation Tutorial 2</a></td><td>R tutorial to extend differentially expressed genes with pathway associations</td>
-</tr>
-<tr>
-<td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase3">Automation Tutorial 3</a></td><td>R tutorial to extend author nodes with their publications and journal information</td>
-</tr>
-</table>
