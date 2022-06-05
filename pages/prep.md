@@ -29,9 +29,11 @@ You can get the latest versions of each tool by the following links.
     <td><img src="https://bigcat-um.github.io/Transcriptomics_Metabolomics_tutorials/images/prep/CytoScape_image-1.jpg" alt="Figure 1"/><br/>Figure 1</td>
   </tr>  
   <tr>
-    <td><img src="https://bigcat-um.github.io/Transcriptomics_Metabolomics_tutorials/images/prep/CytoScape_image-2.jpg" alt="Figure 1"/><br/>Figure 2</td>
+    <td><img src="https://bigcat-um.github.io/Transcriptomics_Metabolomics_tutorials/images/prep/CytoScape_image-2.jpg" alt="Figure 2"/><br/>Figure 2</td>
   </tr> 
-
+  <tr>
+    <td><img src="https://bigcat-um.github.io/Transcriptomics_Metabolomics_tutorials/images/prep/CytoScape_image-3.jpg" alt="Figure 3"/><br/>Figure 3</td>
+  </tr> 
 </table>
 
 -----
