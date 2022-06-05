@@ -5,9 +5,9 @@ This workflow, developed in R markdown files as well as and Jupyter notebook fil
 Each analysis section is given with correspondig script and the topic.<br>
 
 To perform the workflow:<br>
-*First go to related section (Transcriptomics Analysis, Metabolomics Analysis, Multi-omics Visualization)<br> 
-*Open .Rmd file in RStudio<br>
-*Run the script<br>
+* First go to the related section (Transcriptomics Analysis, Metabolomics Analysis or Multi-Omics Visualization)<br> 
+* Open .Rmd file in RStudio<br>
+* Run the script<br>
 
 **Transcriptomics Analysis**
 <table>
@@ -51,7 +51,7 @@ To perform the workflow:<br>
 </table>
 
 ***
-**Multi-omics visualization**
+**Multi-Omics visualization**
 <table>
 <tr>
 <td><b>Tutorial</b></td><td><b>Topic</b></td>
