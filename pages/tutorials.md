@@ -1,26 +1,13 @@
 <img src="../images/tutorials-icon.png" width="80" align="right"/>
 
-This workflow, developed in R markdown files as well as and Jupyter notebook files, includes differential gene expression analysis, statistical analysis of metabolomics data, as well as pathway enrichment analysis for both transcriptomics and metabolomics data followed by integration of this data through network analysis to identify disease-related processes and visualization of multi-omics data. A publicly available (https://ibdmdb.org/) gut-transcriptomic and stool-metabolome dataset of the gut microbial ecosystem in inflammatory bowel diseases was used to test the proposed workflow.
+This workflow, developed in R markdown files as well as and Jupyter notebook files, includes differential gene expression analysis, statistical analysis of metabolomics data, as well as pathway enrichment analysis for both transcriptomics and metabolomics data followed by integration of this data through network analysis to identify disease-related processes and visualization of multi-omics data. A publicly available (https://ibdmdb.org/) gut-transcriptomic and stool-metabolome dataset of the gut microbial ecosystem in inflammatory bowel diseases was used to test the proposed workflow.<br>
 
-<b>Transcriptomics analysis:</b><br>
-1-Data preprocessing<br>
-2-Differential gene expression analysis<br>
-3-Gene Pathway Analysis (ORA)<br>
-4-Heatmap creation<br>
-5-Overlapped genes extraction<br>
-6-Network analysis<br>
-<b>Metabolomics analysis:</b><br>
-7-Data preprocessing<br>
-8-Significantly changed metabolites analysis<br>
-9-Metabolite Pathway Analysis (ORA)<br>
-Multi-omics visualization<br>
-10-Identifier mapping<br>
-11-Visualizaiton of multi-omics<br>
+Each analysis section is given with correspondig script and the topic.<br>
 
-To perform the workflow:
-*First go to related section (Transcriptomics Analysis, Metabolomics Analysis, Multi-omics Visualization) 
-*Open .Rmd file in RStudio
-*Run the script
+To perform the workflow:<br>
+*First go to related section (Transcriptomics Analysis, Metabolomics Analysis, Multi-omics Visualization)<br> 
+*Open .Rmd file in RStudio<br>
+*Run the script<br>
 
 **Transcriptomics Analysis**
 <table>
