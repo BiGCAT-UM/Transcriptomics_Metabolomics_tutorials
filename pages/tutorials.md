@@ -19,10 +19,10 @@ To perform the workflow:<br>
     <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/1-data_preprocessing">1-Data preprocessing </a></td>
     <td>Preprocess transcriptomics data to be ready for analysis</td>
 </tr>
-<tr>
-    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/2-differential_gene_expression_analysis">2-Differential gene expression analysis</a></td><td>Performing differential gene expression analysis</td>
+<<tr>
+<td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase2">Automation Tutorial 2</a></td><td>R tutorial to extend differentially expressed genes with pathway associations</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/tree/master/transcriptomics_analysis/3-pathway_analysis">3-Pathway Analysis</a></td><td>Perform pathway enrichment analysis to differential expressed genes</td>
-<tr>
+<td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase3">Automation Tutorial 3</a></td><td>R tutorial to extend author nodes with their publications and journal information</td>
+</tr>
 </table>
