@@ -28,7 +28,7 @@ For Windows user, due to ‘SPARQL’ was removed from the CRAN repository it sh
 * Run the following command in RStudio<br>
   install.packages(path_to_file, repos = NULL, type="source")
 -----
-## Step 4: Install required apps in CytoScape
+## Step 4: Install required apps in Cytoscape
 * Open Cytoscape
 * Go to the app manager: Apps -> App Manager
 * Install the WikiPathways, stringApp and clusterMaker2 apps fiven in following figures
