@@ -15,13 +15,20 @@ You can get the latest versions of each tool by the following links.
 ## Step 1: Download required software tools
 * [R](https://cran.r-project.org/bin/windows/base/) 
 * [RStudio](https://www.rstudio.com/products/rstudio/download/#download) 
+* [Rtools](https://cran.r-project.org/bin/windows/Rtools/) 
 * [Cytoscape](https://cytoscape.org/) 
 
 -----
 ## Step 2: Install required software tools
 -----
 -----
-## Step 3: Install required apps in CytoScape
+## Step 3: Install SPARQL R package from source
+For Windows user, due to ‘SPARQL’ was removed from the CRAN repository it should be install from a source
+* [Download the latest verison of the package](https://cran.r-project.org/src/contrib/Archive/SPARQL/)  
+* Run the following command in RStudio
+  install.packages(path_to_file, repos = NULL, type="source")
+-----
+## Step 4: Install required apps in CytoScape
 * Open Cytoscape
 * Go to the app manager: Apps -> App Manager
 * Install the WikiPathways, stringApp and clusterMaker2 apps fiven in following figures
