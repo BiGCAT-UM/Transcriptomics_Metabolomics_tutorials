@@ -25,6 +25,7 @@ You can get the latest versions of each tool by the following links.
 ## Step 3: Install SPARQL R package from source
 For Windows user, due to ‘SPARQL’ was removed from the CRAN repository it should be install from a source
 * [Download the latest verison of the package](https://cran.r-project.org/src/contrib/Archive/SPARQL/)  
+* Unzip "SPARQL_X.XX.tar.gz" to a location (path_to_file) where you can find it for the next step
 * Run the following command in RStudio
   install.packages(path_to_file, repos = NULL, type="source")
 -----
